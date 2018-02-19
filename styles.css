@@ -1,0 +1,65 @@
+iframe {
+  width: 50vw;
+  height: 50vh;
+  padding: 200px 320px;
+  margin: auto;
+
+}
+
+body {
+  background-color: black;
+}
+
+div {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+
+.text1 {
+  position: absolute;
+  width: 100vw;
+  top: 10%;
+  left: 55%;
+  transform: translateY(-50%);
+  transform: translateX(-50%);
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 30px;
+  color: white;
+}
+
+.text2 {
+  position: absolute;
+  width: 100vw;
+  top: 84%;
+  left: 115%;
+  transform: translateY(-50%);
+  transform: translateX(-50%);
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 30px;
+  color: white;
+}
+
+
+
+
+.text3 {
+  position: absolute;
+  width: 90vw;
+  top: 77%;
+  left: 188%;
+  transform: translateY(-50%);
+  transform: translateX(-50%);
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 20px;
+  color: white;
+}
+
+img {
+  position: absolute;
+  top: 17%;
+  left: 136%;
+  margin-left: 60px;
+  width: 50%;
+  height: 50vh;
+}
