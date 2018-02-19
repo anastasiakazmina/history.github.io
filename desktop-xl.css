@@ -1,9 +1,0 @@
-@media (min-width: 1441px) {
-  .screen .desktop-xl {
-    display: block;
-  }
-
-  .screen .desktop {
-    display: none;
-  }
-}
